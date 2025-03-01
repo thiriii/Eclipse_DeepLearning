@@ -1,7 +1,7 @@
 # Eclipse_DeepLearning
 Deep Learning Week
 
-Verifact
+## Verifact
 
 Verifact is a powerful tool for detecting deepfake images, fake news, biased content, plagiarism, and online article similarities. It uses AI models and various advanced algorithms to help users identify misinformation, detect manipulated media, and ensure the authenticity of content. This tool also provides guidelines for reporting stolen content and tracking plagiarism across the web.
 
